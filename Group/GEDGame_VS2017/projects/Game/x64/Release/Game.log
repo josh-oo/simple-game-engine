@@ -1,0 +1,37 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+C:\Users\Joshua\Desktop\GED\Group\GEDGame_VS2017\projects\Game\shader\game.fx(166,2-52): warning X3206: implicit truncation of vector type
+C:\Users\Joshua\Desktop\GED\Group\GEDGame_VS2017\projects\Game\shader\game.fx(170,16-30): warning X3206: 'mul': implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\Joshua\Desktop\GED\Group\GEDGame_VS2017\x64\Release\shader\game.fxo
+  ConfigParser.cpp
+  Game.cpp
+  Mesh.cpp
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\mesh.cpp(67): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\mesh.cpp(75): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  T3d.cpp
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\t3d.cpp(18): warning C4101: 'hr': unreferenced local variable
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\t3d.cpp(70): warning C4101: 'hr': unreferenced local variable
+  Terrain.cpp
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(79): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(92): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(106): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(107): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(110): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(111): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(155): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(156): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+c:\users\joshua\desktop\ged\group\gedgame_vs2017\projects\game\src\terrain.cpp(292): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Generating code
+  All 2858 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+GEDUtils.lib(SimpleImage.obj) : warning LNK4099: PDB 'GEDUtils.pdb' was not found with 'GEDUtils.lib(SimpleImage.obj)' or at 'C:\Users\Joshua\Desktop\GED\Group\GEDGame_VS2017\x64\Release\GEDUtils.pdb'; linking object as if no debug info
+  Game.vcxproj -> C:\Users\Joshua\Desktop\GED\Group\GEDGame_VS2017\x64\Release\Game.exe
+  
+  	                   0	C:\Users\Joshua\Desktop\GED\Group\GEDGame_VS2017\projects\DXUT\Media\
+  	                   2	C:\Users\Joshua\Desktop\GED\Group\GEDGame_VS2017\projects\DXUT\Media\UI\
+  
+  	                   1	C:\Users\Joshua\Desktop\GED\Group\GEDGame_VS2017\projects\Game\
+  	    Newer     		     232	game.cfg

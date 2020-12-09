@@ -1,0 +1,12 @@
+Ass.2: 10
+Ass.3: 10
+Ass.4: 9
+Ass.5: 9,5
+Ass.6: 9,5
+Ass.7: 8
+Ass.8: 9
+Ass.9: 8
+Ass.10: 9
+Ass.11: 7
+
+Overall: 89 P -> 1,0 Grading Bonus  Well done!

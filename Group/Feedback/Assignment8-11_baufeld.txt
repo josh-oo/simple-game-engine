@@ -1,0 +1,68 @@
+##############################################################################
+# Assignment 8
+
+NMake: not set for all build configs
+
+Your Solution only works on Release at my side. Maybe this is just VS again...
+Error Message:
+"Game.exe - Systemfehler
+Das Programm kann nicht gestartet werden, da api-ms-win-core-heap-l2-1-0.dll auf dem Computer fehlt.
+Installieren Sie das Programm erneut, um das problem zu beheben."
+This is very strange, no other team had this error on Debug config.
+
+Your Cockpit should be able to rotate with a left-mouseclick + drag mouse
+and it should be in the middle of your terrain.
+------------------------------------------------------------------------------
+### Task 1: Enemy Types 1P
+------------------------------------------------------------------------------
+### Task 2: Enemy Instances 1P
+------------------------------------------------------------------------------
+### Task 3: Spawn & Movement 4P
+Enemies not looking into their flight direction.
+------------------------------------------------------------------------------
+### Task 4: Rendering 3P
+------------------------------------------------------------------------------
+Overall Points Assignment 8: 9P
+##############################################################################
+
+##############################################################################
+# Assignment 9
+------------------------------------------------------------------------------
+### Task 1: SpriteRenderer 1P
+------------------------------------------------------------------------------
+### Task 2: GPU Resources 1P
+-Settings for SpriteRenderer.fx where not made -> entry point not found message
+-Overall Settings were kind of broken
+-SpriteRenderer Destructor is not meant for delete stuff
+-ResourceGenerator Build Command Line not set for all Configs!
+------------------------------------------------------------------------------
+### Task 3: Point Rendering 3P
+------------------------------------------------------------------------------
+### Task 4: Points -> Sprites 2P
+------------------------------------------------------------------------------
+### Task 5: Questions 0P
+------------------------------------------------------------------------------
+Overall Points Assignment 9: 8P
+##############################################################################
+
+##############################################################################
+# Assignment 10
+------------------------------------------------------------------------------
+### Task 1: Guns, Config, Sprites 1P
+------------------------------------------------------------------------------
+### Task 2: Projectile Spawning, Update and Death 3P
+------------------------------------------------------------------------------
+### Task 3: Projectile Rendering 3P
+------------------------------------------------------------------------------
+### Task 4: Collisions and Enemy Death 2P
+Projectiles don't get destroyed when hitting an enemy and I had an Exception thrown at 
+SpriteRenderer.cpp Lines 144ff
+------------------------------------------------------------------------------
+Overall Points Assignment 10: 9P
+##############################################################################
+
+##############################################################################
+# Assignment 11
+------------------------------------------------------------------------------
+Overall Points Assignment 11: 7P 
+##############################################################################
